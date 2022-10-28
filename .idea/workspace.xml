@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f2d4375-77d4-4e57-a882-335bad84e57d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="28vjDvob4zQRpA9mFAAZnolQU02" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../面试项目资料/pet-vue" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="E:\develop\code\宠爱有家\pet_vue\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="D:\工具\WebStorm 2021.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f2d4375-77d4-4e57-a882-335bad84e57d" name="Default Changelist" comment="" />
+      <created>1652103838326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652103838326</updated>
+      <workItem from="1652103840958" duration="95000" />
+      <workItem from="1652104155763" duration="49000" />
+      <workItem from="1652150376758" duration="418000" />
+      <workItem from="1652256737429" duration="2085000" />
+      <workItem from="1652320365249" duration="597000" />
+      <workItem from="1652329901632" duration="124000" />
+      <workItem from="1652343175641" duration="2846000" />
+      <workItem from="1652435152942" duration="740000" />
+      <workItem from="1652528477746" duration="902000" />
+      <workItem from="1652580883703" duration="4751000" />
+      <workItem from="1652693560796" duration="1294000" />
+      <workItem from="1652704922006" duration="383000" />
+      <workItem from="1652705532475" duration="44000" />
+      <workItem from="1652708407408" duration="307000" />
+      <workItem from="1652716053318" duration="600000" />
+      <workItem from="1652773635523" duration="3350000" />
+      <workItem from="1652853783651" duration="785000" />
+      <workItem from="1652921915385" duration="739000" />
+      <workItem from="1653013783772" duration="2032000" />
+      <workItem from="1653120388167" duration="1853000" />
+      <workItem from="1653385427001" duration="2251000" />
+      <workItem from="1653557940766" duration="1137000" />
+      <workItem from="1653732027401" duration="1836000" />
+      <workItem from="1653742396267" duration="610000" />
+      <workItem from="1654003553540" duration="785000" />
+      <workItem from="1654078588853" duration="3000" />
+      <workItem from="1654089998447" duration="369000" />
+      <workItem from="1654090422328" duration="170000" />
+      <workItem from="1654598439490" duration="678000" />
+      <workItem from="1663996975095" duration="53000" />
+      <workItem from="1664099632923" duration="131000" />
+      <workItem from="1664376784909" duration="142000" />
+      <workItem from="1666012732229" duration="989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
